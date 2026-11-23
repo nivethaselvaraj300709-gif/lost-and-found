@@ -1,5 +1,3 @@
-Here is a more **professional, industry-standard README.md** for your Lost and Found project, suitable for a college project submission and GitHub portfolio.
-
 # Lost and Found Management System
 
 A web-based platform designed to simplify the process of reporting, tracking, and recovering lost and found items within a college campus.
