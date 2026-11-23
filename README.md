@@ -109,7 +109,3 @@ By providing a centralized platform for reporting and discovering belongings, th
 **Project Category:** Web Development\
 **Development Type:** Frontend Application\
 **Technologies:** HTML5, CSS3, JavaScript
-
-
-
-**GitHub tip:** Add a project screenshot below the Project Overview section to make your repository more professional and attractive to recruiters.
